@@ -1,0 +1,11 @@
+.social-area{float:none;display:block;overflow:hidden;width:100%;clear:both;}
+.twitter-area{height:50px;width:48%;margin:10px 0 0;background-color:#07beed;position:relative;display:block;overflow:hidden;color:#fff;float:left}
+.twitter-area i{font-size:80px;color:rgba(255,255,255,0.333);z-index:0;position:absolute;right:10px;top:-10px;-ms-transform: rotate(18deg);-webkit-transform: rotate(18deg);-moz-transform: rotate(18deg);-o-transform: rotate(18deg);transform: rotate(18deg);}
+.twitter-area span{z-index:10;position:absolute;width:calc(100% - 30px);margin:15px;overflow:hidden;}
+.yt-area{height:50px;width:48%;padding:12px 0;text-align:center;margin:10px 0 0;background-color:	#c4302b;position:relative;display:block;overflow:hidden;color:#fff;float:right;}
+.ita-area{height:50px;width:100%;letter-spacing:2px;padding:0;margin:10px 0 0;background:#d6249f;background:radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);position:relative;display:block;overflow:hidden;color:#fff;float:left}
+.ita-area a{display:inline-block;right:0;z-index:10;position:absolute;float:right;width:120px;font-size:90%;height:32px;line-height:32px;text-align:center;text-transform:uppercase;padding:0 12px;background:rgba(0,0,0,0.1575);font-weight:600;border-radius:2px;color:#fff;margin:9px 15px;}
+.ita-area i{font-size:120px;color:rgba(255,255,255,0.333);z-index:0;position:absolute;left:20px;top:-10px;-ms-transform: rotate(-8deg);-webkit-transform: rotate(-8deg);-moz-transform: rotate(-8deg);-o-transform: rotate(-8deg);transform: rotate(-8deg);}
+.fb-area-s{height:50px;width:100%;letter-spacing:2px;padding:0;margin:10px 0 0;background:#314d91;position:relative;display:block;overflow:hidden;color:#fff;float:left}
+.fb-area-s div{display:inline-block;left:0;z-index:10;position:absolute;float:right;width:auto;height:21px;line-height:21px;text-align:center;color:#fff;margin:14.5px 15px;}
+.fb-area-s i{font-size:25px;color:#fff;z-index:0;display:inline-block;position:absolute;right:-25px;top:0;border-radius:25px;height:50px;line-height:50px;width:75px;background:rgba(0,0,0,0.15753);padding-left:20px;}
